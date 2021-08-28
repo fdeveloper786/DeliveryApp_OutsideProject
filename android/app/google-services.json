@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15088099845",
+    "project_id": "deliverycartoon",
+    "storage_bucket": "deliverycartoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15088099845:android:94b51177db355a714a326c",
+        "android_client_info": {
+          "package_name": "com.diatus.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15088099845-iibc3r8moa0fgo2v72aj242pq70284v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEcVfZFU4OUJQ_iiJauyoIS9quhWIAdeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15088099845-iibc3r8moa0fgo2v72aj242pq70284v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
